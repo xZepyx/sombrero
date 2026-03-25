@@ -4,6 +4,7 @@
 CMakeFiles/sombrero_test.dir/testing/main.cpp.o
  /home/zepyx/Projects/sombrero/testing/main.cpp
  /home/zepyx/Projects/sombrero/src/exec/exec.hpp
+ /home/zepyx/Projects/sombrero/src/backends/wpctl.hpp
  /home/zepyx/Projects/sombrero/src/audio/audio.hpp
  /home/zepyx/Projects/sombrero/src/sombrero.hpp
  /usr/include/alloca.h

@@ -3,6 +3,7 @@
 
 CMakeFiles/sombrero_test.dir/testing/main.cpp.o: /home/zepyx/Projects/sombrero/testing/main.cpp \
   /home/zepyx/Projects/sombrero/src/exec/exec.hpp \
+  /home/zepyx/Projects/sombrero/src/backends/wpctl.hpp \
   /home/zepyx/Projects/sombrero/src/audio/audio.hpp \
   /home/zepyx/Projects/sombrero/src/sombrero.hpp \
   /usr/include/alloca.h \
@@ -338,8 +339,6 @@ libsombrero.a:
 
 /usr/include/c++/15.2.1/cwctype:
 
-/usr/include/c++/15.2.1/cstdlib:
-
 /usr/include/c++/15.2.1/cstddef:
 
 /usr/include/wchar.h:
@@ -383,10 +382,6 @@ libsombrero.a:
 /usr/include/c++/15.2.1/bits/stl_iterator.h:
 
 /usr/include/c++/15.2.1/bits/stl_heap.h:
-
-/usr/include/bits/types/struct_FILE.h:
-
-/usr/include/asm/types.h:
 
 /usr/include/c++/15.2.1/tuple:
 
@@ -432,6 +427,10 @@ libsombrero.a:
 
 /usr/include/c++/15.2.1/bits/functional_hash.h:
 
+/usr/include/gnu/stubs.h:
+
+/usr/include/bits/pthreadtypes-arch.h:
+
 /usr/include/bits/floatn.h:
 
 /usr/include/stdc-predef.h:
@@ -441,14 +440,6 @@ libsombrero.a:
 /usr/include/asm-generic/posix_types.h:
 
 /usr/include/bits/types/__sigset_t.h:
-
-/usr/include/bits/setjmp.h:
-
-/usr/include/bits/types/struct___jmp_buf_tag.h:
-
-/usr/lib/libc.so:
-
-/home/zepyx/Projects/sombrero/src/audio/audio.hpp:
 
 /usr/include/asm-generic/errno.h:
 
@@ -470,9 +461,29 @@ libsombrero.a:
 
 /usr/include/asm-generic/int-ll64.h:
 
+/usr/include/bits/setjmp.h:
+
+/usr/include/bits/types/struct___jmp_buf_tag.h:
+
+/usr/lib/libc.so:
+
+/home/zepyx/Projects/sombrero/src/audio/audio.hpp:
+
+/usr/include/asm/types.h:
+
+/usr/include/bits/types/struct_FILE.h:
+
+/usr/include/bits/types/mbstate_t.h:
+
+/usr/include/bits/floatn-common.h:
+
 /usr/include/bits/types/__fpos_t.h:
 
 /usr/include/bits/types/clock_t.h:
+
+/usr/include/c++/15.2.1/cstdlib:
+
+/home/zepyx/Projects/sombrero/src/backends/wpctl.hpp:
 
 /usr/lib/libc_nonshared.a:
 
@@ -497,10 +508,6 @@ libsombrero.a:
 /usr/include/bits/types/locale_t.h:
 
 /home/zepyx/Projects/sombrero/testing/main.cpp:
-
-/usr/include/gnu/stubs.h:
-
-/usr/include/bits/pthreadtypes-arch.h:
 
 /usr/include/c++/15.2.1/x86_64-pc-linux-gnu/bits/ctype_base.h:
 
@@ -535,10 +542,6 @@ libsombrero.a:
 /usr/include/bits/timex.h:
 
 /usr/include/bits/errno.h:
-
-/usr/include/bits/types/mbstate_t.h:
-
-/usr/include/bits/floatn-common.h:
 
 /usr/include/c++/15.2.1/ostream:
 
@@ -658,6 +661,14 @@ libsombrero.a:
 
 /usr/include/c++/15.2.1/bits/exception_ptr.h:
 
+/usr/include/c++/15.2.1/ios:
+
+/usr/include/c++/15.2.1/bits/stl_function.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/c++/15.2.1/bits/invoke.h:
+
 /usr/lib/ld-linux-x86-64.so.2:
 
 /usr/include/c++/15.2.1/cstdio:
@@ -715,11 +726,3 @@ libsombrero.a:
 /usr/include/bits/sched.h:
 
 /usr/include/c++/15.2.1/bits/stl_algobase.h:
-
-/usr/include/c++/15.2.1/ios:
-
-/usr/include/bits/endian.h:
-
-/usr/include/c++/15.2.1/bits/invoke.h:
-
-/usr/include/c++/15.2.1/bits/stl_function.h:
