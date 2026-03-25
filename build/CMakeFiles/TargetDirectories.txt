@@ -1,0 +1,4 @@
+/home/zepyx/Projects/sombrero/build/CMakeFiles/sombrero.dir
+/home/zepyx/Projects/sombrero/build/CMakeFiles/sombrero_test.dir
+/home/zepyx/Projects/sombrero/build/CMakeFiles/edit_cache.dir
+/home/zepyx/Projects/sombrero/build/CMakeFiles/rebuild_cache.dir

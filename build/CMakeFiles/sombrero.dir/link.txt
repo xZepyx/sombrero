@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsombrero.a CMakeFiles/sombrero.dir/src/sombrero.cpp.o
+/usr/bin/ranlib libsombrero.a

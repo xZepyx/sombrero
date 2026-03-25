@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/sombrero_test.dir/link.d CMakeFiles/sombrero_test.dir/testing/main.cpp.o -o sombrero_test  libsombrero.a /usr/lib/libpipewire-0.3.so

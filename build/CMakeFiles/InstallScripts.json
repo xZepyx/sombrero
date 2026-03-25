@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/zepyx/Projects/sombrero/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
